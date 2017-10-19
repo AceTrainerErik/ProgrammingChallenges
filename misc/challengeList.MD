@@ -1020,4 +1020,11 @@
 
 493. [Print all numbers between 1 to N without using any loop | 4 methods](http://www.techiedelight.com/print-numbers-1-n-without-using-loop-4-methods/)
 
-494. [Print a semicolon without using semicolon anywhere in the program](http://www.techiedelight.com/print-a-semicolon-without-using-semico
+494. [Print a semicolon without using semicolon anywhere in the program](http://www.techiedelight.com/print-a-semicolon-without-using-semicolon-anywhere-program/)
+
+495. [Multiply two numbers without using multiplication operator or loops](http://www.techiedelight.com/multiply-two-numbers-without-using-multiplication-operator-loops/)
+
+496. [Find square of a number without using multiplication and division operator | 3 methods](http://www.techiedelight.com/find-square-number-without-using-multiplication-division-operator/)
+
+497. [Magnet Puzzle](http://www.techiedelight.com/magnet-puzzle/)
+
