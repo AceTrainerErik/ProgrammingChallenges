@@ -184,7 +184,7 @@
 
 92. [All combinations of elements satisfiying given constraints](http://www.techiedelight.com/find-combinations-of-elements-satisfies-given-constraints/)
 
-##Backtracking
+## Backtracking
 
 93. [Print all possible solutions to N Queens problem](http://www.techiedelight.com/print-possible-solutions-n-queens-problem/)
 
@@ -210,7 +210,7 @@
 
 104. [Find all binary strings that can be formed from given wildcard pattern](http://www.techiedelight.com/find-binary-strings-can-formed-given-wildcard-pattern/)
 
-##Binary
+## Binary
 
 105. [Bit Hacks – Part 1 (Basic)](http://www.techiedelight.com/bit-hacks-part-1-basic/)
 
@@ -252,7 +252,7 @@
 
 124. [Huffman Coding](http://www.techiedelight.com/huffman-coding/)
 
-##Binary Tree
+## Binary Tree
 
 125. [Check if two given binary trees are identical or not | Iterative & Recursive](http://www.techiedelight.com/check-if-two-binary-trees-are-identical-not-iterative-recursive/)
 
@@ -336,7 +336,7 @@
 
 165. [Determine if given Binary Tree is a BST or not](http://www.techiedelight.com/determine-given-binary-tree-is-a-bst-or-not/)
 
-##Binary Search Tree (BST)
+## Binary Search Tree (BST)
 
 166. [Insertion in BST](http://www.techiedelight.com/insertion-in-bst/)
 
@@ -360,7 +360,7 @@
 
 176. [Find optimal cost to construct binary search tree](http://www.techiedelight.com/find-optimal-cost-to-construct-binary-search-tree/)
 
-##Divide & Conquer
+## Divide & Conquer
 
 177. [Binary Search](http://www.techiedelight.com/binary-search/)
 
@@ -406,7 +406,7 @@
 
 198. [Hybrid QuickSort](http://www.techiedelight.com/hybrid-quicksort/)
 
-##Dynamic Programming
+## Dynamic Programming
 
 199. [Introduction to Dynamic Programming](http://www.techiedelight.com/introduction-dynamic-programming/)
 
@@ -498,7 +498,7 @@
 
 243. [All-Pairs Shortest Paths – Floyd Warshall Algorithm](http://www.techiedelight.com/pairs-shortest-paths-floyd-warshall-algorithm/)
 
-##Graphs
+## Graphs
 
 244. [Terminology and Representations of Graphs](http://www.techiedelight.com/terminology-and-representations-of-graphs/)
 
@@ -558,7 +558,7 @@
 
 272. [Greedy coloring of graph](http://www.techiedelight.com/greedy-coloring-graph/)
 
-##Heaps
+## Heaps
 
 273. [Introduction to Priority Queues using Binary Heaps](http://www.techiedelight.com/introduction-priority-queues-using-binary-heaps/)
 
@@ -590,7 +590,7 @@
 
 287. [Find first k non-repeating characters in a string in single traversal](http://www.techiedelight.com/first-k-non-repeating-characters-string/)
 
-##Linked List
+## Linked List
 
 288. [Introduction to Linked Lists](http://www.techiedelight.com/introduction-linked-lists/)
 
@@ -652,7 +652,7 @@
 
 317. [Detect Cycle in a linked list (Floyd’s Cycle Detection Algorithm)](http://www.techiedelight.com/detect-cycle-linked-list-floyds-cycle-detection-algorithm/)
 
-##Matrix
+## Matrix
 
 318. [Print Matrix in Spiral Order](http://www.techiedelight.com/print-matrix-spiral-order/)
 
@@ -720,7 +720,7 @@
 
 350. [Find Longest Possible Route in a Matrix](http://www.techiedelight.com/find-longest-possible-route-matrix/)
 
-##Queue
+## Queue
 
 351. [Chess Knight Problem – Find Shortest path from source to destination](http://www.techiedelight.com/chess-knight-problem-find-shortest-path-source-destination/)
 
@@ -764,7 +764,7 @@
 
 371. [Check if an undirected graph contains cycle or not](http://www.techiedelight.com/check-undirected-graph-contains-cycle-not/)
 
-##Sorting
+## Sorting
 
 372. [Insertion sort | Iterative & Recursive](http://www.techiedelight.com/insertion-sort-iterative-recursive/)
 
@@ -834,7 +834,7 @@
 
 405. [Merging Overlapping Intervals](http://www.techiedelight.com/merging-overlapping-intervals)
 
-##Stack
+## Stack
 
 406. [Check if given expression is balanced expression or not](http://www.techiedelight.com/check-given-expression-balanced-expression-not/)
 
@@ -862,7 +862,7 @@
 
 418. [Depth First Search (DFS) | Iterative & Recursive Implementation](http://www.techiedelight.com/depth-first-search/)
 
-##String
+## String
 
 419. [Check if given set of moves is circular or not](http://www.techiedelight.com/check-given-set-moves-circular-not/)
 
@@ -966,7 +966,7 @@
 
 469. [Shortest Common Supersequence | Using LCS](http://www.techiedelight.com/shortest-common-supersequence-using-lcs/)
 
-##Trie
+## Trie
 
 470. [Trie Implementation | Insert, Search and Delete](http://www.techiedelight.com/trie-implementation-insert-search-delete/)
 
@@ -982,7 +982,7 @@
 
 476. [Find Duplicate rows in a binary matrix](http://www.techiedelight.com/find-duplicate-rows-binary-matrix/)
 
-##Greedy
+## Greedy
 
 477. [Activity Selection Problem](http://www.techiedelight.com/activity-selection-problem/)
 
@@ -994,7 +994,7 @@
 
 481. [Greedy coloring of graph](http://www.techiedelight.com/greedy-coloring-graph/)
 
-##Puzzles
+## Puzzles
 
 482. [Clock angle problem – Find angle between hour and minute hand](http://www.techiedelight.com/angle-between-hour-minute-hand/)
 
